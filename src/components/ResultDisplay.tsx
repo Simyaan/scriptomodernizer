@@ -97,4 +97,3 @@ const ResultDisplay: React.FC<Props> = ({ result, image }) => {
 };
 
 export default ResultDisplay;
-git push -u origin master
