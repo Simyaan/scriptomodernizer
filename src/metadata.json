@@ -1,0 +1,7 @@
+{
+  "name": "ScriptoModernizer",
+  "description": "A sophisticated tool for paleographers and historians to transcribe and modernize old manuscripts using advanced AI vision and linguistic analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
